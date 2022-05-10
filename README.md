@@ -1,9 +1,11 @@
 hey there! 
+
 [Instagram](https://www.instagram.com/juanjosegamboa5/)
 
  ```javascript
 const weaponblack = {
   code: [Java, some Python and HTML],
+  IDE's: [VSC,Intellij,Bluej,Netbeans],
 }
 ```
 
