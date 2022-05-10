@@ -13,7 +13,7 @@ const weaponblack = {
 - 🎓 I’m graduated as technical in graphic design
 - 🌱 I’m currently learning java programming
 - 👀 I’m interested in java programming, videogames and web security
-- 📫 How to reach me juanjose5427@gmail.com
+- 📫 How to reach me [@weaponblack](https://github.com/weaponblack)
 
 <!---
 weaponblack/weaponblack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
