@@ -4,7 +4,6 @@ hey there!
  ```javascript
 const weaponblack = {
   code: [Java, some Python and HTML],
-
 }
 ```
 
