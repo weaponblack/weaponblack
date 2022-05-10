@@ -1,5 +1,12 @@
 hey there! 
-[Instagram]{https://www.instagram.com/juanjosegamboa5/}
+[Instagram](https://www.instagram.com/juanjosegamboa5/)
+
+ ```javascript
+const weaponblack = {
+  code: [Java, some Python and HTML],
+
+}
+```
 
 - 👋 I’m @weaponblack
 - 🧑 My name is Juan José Gamboa
