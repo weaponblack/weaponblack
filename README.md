@@ -4,8 +4,8 @@ Hey there!
 
  ```javascript
 const weaponblack = {
-  code: [Java,Python,JavaSript,HTML],
-  IDE's: [VSC,Intellij,Bluej,Netbeans],
+  code: [Java,Python,JavaSrcipt & TypeScript,HTML,CSS],
+  IDE's: [VSC,Intellij,Bluej,Netbeans,PyCharm],
 }
 ```
 
